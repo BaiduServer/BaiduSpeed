@@ -1,0 +1,15 @@
+version: 1.5.15
+files:
+  - url: Motrix-1.5.15-mac.zip
+    sha512: Hm/BwY67kX9M1bSTtZm1U4Q5DyrL/5MBAbR0aG3GP/BR+flqBrPRa1rZzbIsin6Q/rgIQv3YylURshsEAggQAQ==
+    size: 79908206
+    blockMapSize: 84883
+  - url: Motrix-1.5.15.dmg
+    sha512: /7CR30st6Vp6M9RnYobK/nwYzkP3t7GYLSxD+EUeLavknmGzM9xH5uModswzzi+6HbIK4ZgfF0AL11qBL7rHFw==
+    size: 83430521
+  - url: Motrix-1.5.15.dmg
+    sha512: /7CR30st6Vp6M9RnYobK/nwYzkP3t7GYLSxD+EUeLavknmGzM9xH5uModswzzi+6HbIK4ZgfF0AL11qBL7rHFw==
+    size: 83430521
+path: Motrix-1.5.15-mac.zip
+sha512: Hm/BwY67kX9M1bSTtZm1U4Q5DyrL/5MBAbR0aG3GP/BR+flqBrPRa1rZzbIsin6Q/rgIQv3YylURshsEAggQAQ==
+releaseDate: '2020-12-01T07:31:06.041Z'
