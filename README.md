@@ -2,6 +2,8 @@
 
 **Motrix扩展版，最新百度云SVIP加速，新建任务选择百度云加速即可。**
 
+**好用请点Star**
+
 ## 安装教程
 
 Windows下载**Motrix Setup x.x.xx.exe**即可(版本不固定)，MacOS下载**Motrix-x.x.xx.dmg**(版本不固定).
