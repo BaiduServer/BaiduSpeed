@@ -8,7 +8,7 @@ Windows下载**Motrix Setup x.x.xx.exe**即可(版本不固定)，MacOS下载**M
 
 ## 国内下载地址
 
-[蓝奏云](https://wws.lanzous.com/b01trdamd) 密码:`abmz`
+[蓝奏云](https://wws.lanzous.com/b01trdamd)
 
 ## 使用说明
 
