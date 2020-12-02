@@ -6,6 +6,10 @@
 
 Windows下载**Motrix Setup x.x.xx.exe**即可(版本不固定)，MacOS下载**Motrix-x.x.xx.dmg**(版本不固定).
 
+## 国内下载地址
+
+[蓝奏云](https://wws.lanzous.com/b01trdamd) 密码:`abmz`
+
 ## 使用说明
 
 点击Motrix添加任务的按钮，切到百度云页面可以解析百度云文件，实现SVIP加速，我们挑战的是**跑
