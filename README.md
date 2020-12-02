@@ -16,3 +16,6 @@ Windows下载**Motrix Setup x.x.xx.exe**即可(版本不固定)，MacOS下载**M
 ## 特此鸣谢
 
 鸣谢`Github`开源产品 [Motrix](https://github.com/agalwood/Motrix)
+
+## 加入我们
+Telegram Group: [Link](https://t.me/baidu_disk)
